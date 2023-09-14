@@ -9,8 +9,7 @@ If you want to contact me, please write an e-mail: szewczyk.szy@gmail.com
 
 
 ## My projects:
-#TODO:
-1. <empty> 
+1. [Portfolio Page (In progress)](https://github.com/SzewczykSzy/Portfolio_Page)
 
 ## Here are my stats:
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzewczykSzy&show_icons=true&theme=radical)
