@@ -9,7 +9,7 @@ If you want to contact me, please write an e-mail: szewczyk.szy@gmail.com
 
 
 ## My projects:
-1. [Portfolio Page (In progress)](https://github.com/SzewczykSzy/Portfolio_Page)
+1. [Portfolio Page (In progress)](https://github.com/SzewczykSzy/My-Portfolio)
 2. Evolution algorithm [(Contributor on old account)](https://github.com/adamjstasiak/BO2_Evolutionary_Algorithm)
 3. Thesis project [Dangerous situations detections](https://github.com/SzewczykSzy/Dangerous-situations-with-pedastrians)
 
