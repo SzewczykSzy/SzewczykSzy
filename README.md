@@ -12,6 +12,7 @@ If you want to contact me, please write an e-mail: szewczyk.szy@gmail.com
 1. My page [Portfolio Page](https://github.com/SzewczykSzy/My-Portfolio)
 2. Evolution algorithm [(Contributor on old GirHub account)](https://github.com/adamjstasiak/BO2_Evolutionary_Algorithm)
 3. Thesis project [Dangerous situations detections](https://github.com/SzewczykSzy/Dangerous-situations-with-pedastrians)
+4. Data Analytics project [Bayesian Inference](https://github.com/SzewczykSzy/DA_Project)
 
 ## Here are my stats:
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzewczykSzy&show_icons=true&theme=radical)
